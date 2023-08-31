@@ -1,0 +1,11 @@
+{
+    "aps" : {
+        "alert" : {
+            "title" : "Push On Simulator",
+            "body" : "You have sent it on simulator"
+        },
+        "sound": "default",
+        "badge" : 7
+    },
+    "Simulator Target Bundle" : "com.demo.PushDemo"
+}

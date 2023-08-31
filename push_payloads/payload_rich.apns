@@ -1,0 +1,17 @@
+{
+  "CIO": {
+    "push": {
+      "link": "tpcapp://schedule",
+      "image": "https://userimg-assets.customeriomail.com/images/client-env-57949/1678271895150_download_01GV0CSP2MWS2ANFPGJV6R8X96.jpeg"
+    }
+  },
+  "react-deep-link": "tpcapp://schedule",
+  "aps": {
+    "alert": {
+      "title": "RICH PUSH TEST",
+      "body": "Food delivery on the way"
+    },
+    "sound": "default",
+    "mutable-content": 1
+  }
+}
