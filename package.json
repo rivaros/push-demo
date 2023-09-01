@@ -9,7 +9,8 @@
     "start": "react-native start",
     "test": "jest",
     "send:std": "scripts/send_standard.sh",
-    "send:rich": "scripts/send_rich.sh"
+    "send:rich": "scripts/send_rich.sh",
+    "push:remote": "scripts/push_remote.sh"
   },
   "dependencies": {
     "react": "18.2.0",
